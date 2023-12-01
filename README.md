@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am passionate about the opportunity for technology to improve our lives and am working hard to build a fairer and more equitable world through that technology, and the society we build with it. 
+
+I partner with talented founders who are building next the generation of internet services. I'm particularly interested in distributed computing, media, AI, Fintech and IoT.
+I also work as an exec coach,  a mentor for developing talent, and have experience in advisory roles across both industry bodies and corporates. I am a speaker and occasional writer on innovation and emerging technology
+
+My specialist subjects are business strategy, creating and managing growth, organisation design, change management, talent strategy, workshop design and facilitation, team-building, leadership and creating high performing businesses through a focus on enabling effective teams.
+In a previous life, I worked in innovation advisory at a number of digital agencies during the first two waves of the internet revolution, seeing the dotcom boom up close, and then enjoyed  web 2.0 with the rise of mobile and social web. 
+
 <!--
 **mattyboomboom/mattyboomboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
