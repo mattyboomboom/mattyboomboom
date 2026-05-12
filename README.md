@@ -6,7 +6,7 @@ I am founder at <a href="http://sciuridae.io">Sciuridae Labs</a> where I partner
 
 I also work as an exec coach, <a href="https://www.sciuridae.io/coaching-mentoring">a mentor for developing talent</a>, including <a href="https://schedule.sxsw.com/2020/events/PP1134928">events such as SXSW</a>, and have experience in advisory roles across both industry bodies and corporates. I am a speaker and occasional writer on innovation and emerging technology and have presented at <a href="https://www.sciuridae.io/media-events">a number of tech industry events</a>
 
-I have also had various roles at <a href="http://outlierventures.io">Outlier Ventures</a> a venture capital firm backing emerging technology founders since 2014. We are a leading Web3 early stage investor, and one of the first VC firms dedicated to investing in the emerging crypto and AI ecosystem. 
+I have also had various roles at <a href="http://outlierventures.io">Outlier Ventures</a> a venture capital firm backing emerging technology founders since 2014. We are a leading digital assets early stage investor, and one of the first VC firms dedicated to investing in the emerging crypto and AI ecosystem. 
 
 I am co-founder at emerging technology product strategy studio for startups and high growth tech brands in the SaaS, Media, Web3 and AI space: <a href="http://move78.studio">Move78</a>.
 
