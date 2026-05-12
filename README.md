@@ -8,7 +8,7 @@ I also work as an exec coach, <a href="https://www.sciuridae.io/coaching-mentori
 
 I have also had various roles at <a href="http://outlierventures.io">Outlier Ventures</a> a venture capital firm backing emerging technology founders since 2014. We are a leading digital assets early stage investor, and one of the first VC firms dedicated to investing in the emerging crypto and AI ecosystem. 
 
-I am co-founder at emerging technology product strategy studio for startups and high growth tech brands in the SaaS, Media, Web3 and AI space: <a href="http://move78.studio">Move78</a>.
+I am co-founder at emerging technology product strategy studio for startups and high growth tech brands in the SaaS, Media, AI and emerging tech space: <a href="http://move78.studio">Move78</a>.
 
 My specialist subjects are business strategy, creating and managing growth, brand and proposition design, organisation design, change management, talent strategy, workshop design and facilitation, team-building, leadership and creating high performing businesses through a focus on enabling effective teams.
 
