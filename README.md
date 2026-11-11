@@ -14,6 +14,13 @@ My specialist subjects are business strategy, creating and managing growth, bran
 
 In a previous life, I worked in innovation advisory at a number of digital agencies during the first two waves of the internet revolution, seeing the dotcom boom up close, and then enjoyed  web 2.0 with the rise of mobile and social web. 
 
+On Github I am hosting a number of my personal projects including:
+* Ranking of the [Best Novels in the English language](https://thenovelindex.co.uk) using 30 global critics', readers' and publishers' best-of lists
+* A [Sensible Prepping calculator](https://sensibleprepping.co.uk) from the UK Government "Be Ready" guidance
+* An [animated timeline of the 1944 battle for Normandy](https://mattyboomboom.github.io/Normandy44/)
+* A [data project analysing differing job roles for men and women](https://mattyboomboom.github.io/workforce/), based on the UK labour survey
+* An animated [data analysis of the first night of the Blitz in 1940](https://mattyboomboom.github.io/FirstNight/), based on London Fire Brigade records
+
 <!--
 **mattyboomboom/mattyboomboom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
